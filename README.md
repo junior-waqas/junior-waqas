@@ -1,6 +1,4 @@
-# 🌐 Live WordPress Website:
-🔗 **[Visit My WordPress Site](https://juniorr.free.nf/)**  
-📍 *https://juniorr.free.nf/*
+
 
 # 💻 Tech Stack:
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
